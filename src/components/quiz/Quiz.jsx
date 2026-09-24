@@ -3,7 +3,7 @@ import "./Quiz.css";
 import { data } from "../../assets/data";
 
 const Quiz = ({ onComplete }) => {
-  const TOTAL_TIME = 40 * 60;
+  const TOTAL_TIME = 1 * 60;
 
   const [index, setIndex] = useState(0);
   const [question, setQuestion] = useState(data[0]);
