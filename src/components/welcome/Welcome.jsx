@@ -77,7 +77,7 @@ const Welcome = ({ onStart }) => {
             <div className="info-divider"></div>
 
             <div className="info-item">
-              <span className="info-number">40</span>
+              <span className="info-number">25</span>
               <span className="info-label">Minutes</span>
             </div>
           </div>
